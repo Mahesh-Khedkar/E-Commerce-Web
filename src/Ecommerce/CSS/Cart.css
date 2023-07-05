@@ -1,0 +1,17 @@
+body{
+    background: radial-gradient(silver,black);
+
+}
+
+.cart{
+    background: radial-gradient(silver,black);
+}
+
+table{
+    width: 100%;
+    padding-top: 20px;
+}
+tr{
+    width: 100%;
+    background: linear-gradient(white,rgb(241, 125, 125));
+}
