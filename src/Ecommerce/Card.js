@@ -5,7 +5,7 @@ const Card = ({item,handleClick}) => {
 
     const{title,description,price,image,rating,category}=item;
     const[open,setOpen]= useState(false);
-
+    
   return (
     <div className='CardsBody'>
       <div className='Card'>
